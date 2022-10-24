@@ -89,7 +89,7 @@
                                                         <i class="fa-solid fa-pen-to-square text-info"></i>
                                                     </a>
                                                     &nbsp;&nbsp;|&nbsp;&nbsp;
-                                                    <a href="{{ route('deletbuku', $buku->id) }}">
+                                                    <a href="">
                                                         <i class="fa-solid fa-trash text-danger"></i>
                                                     </a>
                                                     {{-- <form action="{{ route('sewa.destroy', $barang->id) }}" method="POST">
